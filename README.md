@@ -95,5 +95,5 @@ c29r3/solana-snapshot-finder:latest \
 -r http://api.testnet.solana.com
 ```
 
-## Update  
+## Update  pull
 `docker pull c29r3/solana-snapshot-finder:latest`
