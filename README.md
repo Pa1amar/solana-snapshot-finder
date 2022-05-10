@@ -1,7 +1,7 @@
 # solana-snapshot-finder
 Automatic search and download of snapshots for Solana  
 
-## Navigation  
+Navigation  
 
 * [Description](#what-exactly-does-the-script-do)
 * [Getting Started]()
